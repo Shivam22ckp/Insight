@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992128569728",
+    "project_id": "insight-72b36",
+    "storage_bucket": "insight-72b36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992128569728:android:c62c0748634a25e6453165",
+        "android_client_info": {
+          "package_name": "darklordofamber.insight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992128569728-va48vl9vmt1vm1ijgtqqgmh5sgg1e0j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARbbrXw9syD4n1XjZH85cW8QEsCplfWHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992128569728-va48vl9vmt1vm1ijgtqqgmh5sgg1e0j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
